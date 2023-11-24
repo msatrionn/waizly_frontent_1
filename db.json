@@ -1,0 +1,39 @@
+{
+  "task": [
+    {
+      "task": "Design Poster",
+      "name": "Jordi",
+      "address": "Magelang",
+      "status": 0,
+      "id": 1
+    },
+    {
+      "task": "kuli",
+      "name": "Anang",
+      "address": "Yogya",
+      "status": 0,
+      "id": 2
+    },
+    {
+      "task": "data3",
+      "name": "nama3",
+      "address": "asal3",
+      "status": 0,
+      "id": 9
+    },
+    {
+      "status": 0,
+      "task": "dsa",
+      "name": "as",
+      "address": "dsa",
+      "id": 10
+    },
+    {
+      "task": "tasks",
+      "name": "nama",
+      "address": "alamat`",
+      "status": 1,
+      "id": 13
+    }
+  ]
+}
